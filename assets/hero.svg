@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">notfelpas — Full-stack Developer</title>
+  <desc id="desc">Banner preto e branco com detalhes verdes para o perfil do GitHub de notfelpas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080808"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="46" y="46" width="8" height="268" rx="4" fill="#b7ff38"/>
+  <text x="92" y="104" fill="#b7ff38" font-family="Consolas, ui-monospace, monospace" font-size="20" letter-spacing="4">FULL-STACK DEVELOPER · SÃO PAULO, BR</text>
+  <text x="88" y="194" fill="#f7f7f2" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="-3">NOTFELPAS</text>
+  <text x="92" y="246" fill="#b9b9b3" font-family="Arial, Helvetica, sans-serif" font-size="25">Interfaces rápidas · Dashboards claros · Automações com IA</text>
+  <text x="92" y="300" fill="#f7f7f2" font-family="Consolas, ui-monospace, monospace" font-size="18">NOTFELPAS.COM</text>
+  <circle cx="1092" cy="76" r="8" fill="#b7ff38"/>
+  <text x="1114" y="82" fill="#b7ff38" font-family="Consolas, ui-monospace, monospace" font-size="15">BUILDING</text>
+</svg>
+
