@@ -33,6 +33,26 @@ Desenvolvedor full-stack em São Paulo, construindo produtos digitais desde 2022
 
 Também trabalho com TanStack, Vite, PostgreSQL, Meta API, WhatsApp Cloud, Evolution API e integrações com modelos de IA.
 
+## Era só um projetinho. 1,4 bilhão de tokens depois…
+
+Eu gosto de vibe codar. Muito. Tenho uma ideia, abro o chat e penso: “isso aqui dá pra fazer rapidinho”. Aí vem outra ideia, mais um ajuste, um “e se…”. Quando percebo, o projetinho já tem dashboard e eu tô escolhendo a animação do botão.
+
+Se precisasse de comprovante, tá aqui.
+
+### 1,4 bilhão de tokens
+*Aparentemente, eu tinha bastante coisa pra perguntar.*
+
+<img src="./assets/chatgpt-activity.png" alt="Meu painel de atividade: 1,4 bilhão de tokens no total e 192 chats." width="100%" />
+
+### 617 edições no Lovable
+*A última alteração. Pela 617ª vez.*
+
+<a href="./assets/lovable-activity.png">
+  <img src="./assets/lovable-activity.png" alt="Minha atividade no Lovable: 617 edições no último ano, em 90 dias ativos." width="100%" />
+</a>
+
+<sub>Registro de setembro de 2026. Os números continuam subindo; os prints, por enquanto, não.</sub>
+
 ## Como eu construo
 
 ```text
