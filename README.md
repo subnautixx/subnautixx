@@ -16,6 +16,7 @@ Desenvolvedor full-stack em São Paulo, construindo produtos digitais desde 2022
 
 | Projeto | O que resolve | Stack |
 | --- | --- | --- |
+| **[ShowOnce](https://github.com/subnautixx/showonce)** | Projeto principal. Você faz uma tarefa uma vez no navegador e recebe um workflow do n8n que a repete: a IA entende a intenção e usa nós de API, sem imitar cliques. | Chrome Extension · Node.js · n8n · MCP · Claude |
 | [4F Motors CRM](https://github.com/subnautixx/4f-motors-crm) | Operação de prospecção e atendimento via WhatsApp, com segurança por RLS e acompanhamento em tempo real. | Next.js · TypeScript · Supabase · Meta API |
 | [4F Motors AI Sales](https://github.com/subnautixx/4f-motors-ai-sales) | Qualifica leads, consulta estoque e transfere oportunidades quentes para um vendedor humano. | Node.js · TypeScript · Claude · Evolution API |
 | [notfelpas.com](https://notfelpas.com/) | Meu portfólio e ponto de contato para novos projetos. | React · UI Engineering · SEO |
